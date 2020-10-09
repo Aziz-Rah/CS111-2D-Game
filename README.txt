@@ -2,7 +2,7 @@ README
 
 1. Azizur Rahman
 
-2. LLama Wants Weed
+2. LLama Wants Grass
 
 3. run Movie.java with all the files contained in ProjectMS3.zip in the same directory
 
